@@ -28,7 +28,7 @@ Make sure you have the following installed on your system:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/abhishekdhar999/bike-library-api.git
-   cd bike-library-api
+   git clone https://github.com/abhishekdhar999/ridesense.git
+   cd bike-library
 Start the server by : npm run start:dev <br/>
 Once the server is running, you can access the Swagger UI for API documentation at:http://localhost:3000/api
