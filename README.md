@@ -30,5 +30,5 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/abhishekdhar999/bike-library-api.git
    cd bike-library-api
-Start the server by : npm run start:dev
+Start the server by : npm run start:dev <br/>
 Once the server is running, you can access the Swagger UI for API documentation at:http://localhost:3000/api
